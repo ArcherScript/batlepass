@@ -1,4 +1,4 @@
-import { BattlePassManager } from "../BattlePassManager";
+import { BattlePassManager } from "../src/BattlePassManager";
 
 // Create a new BattlePassManager with 3 levels
 const battlePass = new BattlePassManager([
